@@ -1,8 +1,8 @@
 # site settings
-title: Ground Up Climber
+title: Rubber on the Rocks
 subtitle: Myles Enriquez
 email: enri.myles@gmail.com
-description: I climb and write about it.
+description: Smearing rubber and writing all about it.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Myles Enriquez
@@ -23,7 +23,7 @@ facebook_url:
 github_url:
 gitlab_url: https://gitlab.com/u/andrewbanchich
 googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
+instagram_url: https://instagram.com/rubberontherocks
 linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
 pinterest_url:
 slack_url:

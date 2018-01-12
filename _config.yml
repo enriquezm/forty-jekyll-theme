@@ -3,7 +3,7 @@ title: Rubber on the Rocks
 subtitle: Myles Enriquez
 email: enri.myles@gmail.com
 description: Smearing rubber and writing all about it.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Myles Enriquez
 street_address: 1234 Somewhere Road
@@ -18,16 +18,16 @@ tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 1
 
 # social settings
-500px_url:
+500px_url: https://500px.com/rubberontherocks
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+gitlab_url:
+googleplus_url:
 instagram_url: https://instagram.com/rubberontherocks
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url:
 
 # build settings
 markdown: kramdown

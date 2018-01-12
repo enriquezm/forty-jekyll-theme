@@ -1,9 +1,9 @@
 ---
-title: Landing
+title: Featured
 layout: landing
-description: 'Climbing my way up the ladder and trying to find that perfect line.'
+description: 'Collection of featured posts.'
 image: assets/images/pic07.jpg
-nav-menu: true
+nav-menu: false
 ---
 
 <!-- Main -->
@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Don't have time?</h2>
 		</header>
 		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
 	</div>

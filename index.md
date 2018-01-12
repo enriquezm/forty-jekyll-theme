@@ -7,4 +7,4 @@ image: null
 author: null
 ---
 
-I'm an average climber psyched on climbing and just getting out.
+What more visuals? Follow my instagram account!

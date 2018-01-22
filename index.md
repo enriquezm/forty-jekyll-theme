@@ -7,4 +7,4 @@ image: null
 author: null
 ---
 
-What more visuals? Follow my instagram account!
+Want more visuals? Follow my instagram account! I post my climbing projects, adventures, challenges, and giveaways.

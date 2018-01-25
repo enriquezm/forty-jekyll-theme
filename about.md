@@ -6,10 +6,10 @@ image: assets/images/sample-2.jpg
 nav-menu: true
 ---
 
-My name is Myles and I'm a rock climber.
+My name is Myles Enriquez.
 
-I started this blog to record my adventures, things I've learned, and things I think about when out wandering.
+I love creating film, shooting photography, and getting buck on some mountain cliffs.
 
-I hope to bring something to the climbing community worth sharing. If you ever want a climbing buddy just email or contact me on instagram!
+If you enjoy the same, message me and let's be friends. I'll be posting my experiences and lessons I've learned on this blog. So if your interested, love climbing, and love to read all about it then tune in!
 
 Climb on.

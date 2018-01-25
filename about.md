@@ -6,8 +6,10 @@ image: assets/images/sample-2.jpg
 nav-menu: true
 ---
 
-My name is Myles Enriquez. Born and raised in Las Vegas. Started climbing when I was 18. As they all say, I was hooked from the start.
+My name is Myles and I'm a rock climber.
 
-Ever since the start, I've read all kinds of climbing books, watched all kinds of videos, scrolled through all kinds of photos, and have become obsessed with it.
+I started this blog to record my adventures, things I've learned, and things I think about when out wandering.
 
-I mainly do sport and boulder but would love to go out and try some trad.
+I hope to bring something to the climbing community worth sharing. If you ever want a climbing buddy just email or contact me on instagram!
+
+Climb on.
